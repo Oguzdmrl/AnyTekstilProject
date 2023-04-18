@@ -1,0 +1,2 @@
+# AnyTekstilProject
+ Kantar İndikatörü
