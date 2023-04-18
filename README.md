@@ -1,5 +1,5 @@
 # AnyTekstilProject
- Kantar İndikatörü
+Üniversite yıllarımda gönüllü staj yaptığım zamanlarda tekstil firması için yazdığım kantar indikatöründen veri okuyup fastreport ile etiket basan uygulama.
 
 Programda ürün bilgileri kullanıcı tarafından doldurulur, kullanıcı önce baskülde ağırlığın Darasını alır sonra NETKG almak için basküldeki tuşa basar ve program >> Kantar indikatöründen(Baskül) Netkg bilgisini alır, bilgileri veri tabanına kayıt eder, FastReport kullanarak oluşturduğum etiket üzerine bilgileri doldurup etiketi basar. Kullanıcı isterse kayıt edilmiş bilgilerden herhangi birini seçip manuel olarak da etiket bastırabilir.
 
